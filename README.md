@@ -39,7 +39,7 @@ I brew lines of code as passionately as I brew chai — each project a new flavo
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “He who cheats the earth will be cheated by the earth.” — Chinese Proverb
+  “The more you are motivated by Love, The more Fearless & Free your action will be.” — Dalai Lama
 </div>
 
 ---
@@ -86,9 +86,9 @@ I brew lines of code as passionately as I brew chai — each project a new flavo
 
 ## 🕹️ Mini Tic-Tac-Toe  
 ```
-▫️ ▫️ 🍪
-🍵 🍵 ▫️
-🍪 🍪 ▫️
+▫️ 🍪 ▫️
+▫️ 🍪 🍪
+🍵 ▫️ 🍪
 ```  
 ---  
 
