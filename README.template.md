@@ -91,7 +91,7 @@ I brew lines of code as passionately as I brew chai — each project a new flavo
 
 ## 🛠️ Tech & Tools
 
-<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
        alt="Java" 
@@ -108,8 +108,7 @@ I brew lines of code as passionately as I brew chai — each project a new flavo
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" 
        alt="MongoDB" 
        style="border-radius: 12px; box-shadow: 0 3px 8px rgba(78, 169, 75, 0.5);" />
-</p>
-
+</div>
 
 
 
