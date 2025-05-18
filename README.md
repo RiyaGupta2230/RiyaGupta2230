@@ -39,7 +39,7 @@ I brew lines of code as passionately as I brew chai — each project a new flavo
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “I've always lived in the moment.” — Yanni
+  “He who cheats the earth will be cheated by the earth.” — Chinese Proverb
 </div>
 
 ---
@@ -86,16 +86,16 @@ I brew lines of code as passionately as I brew chai — each project a new flavo
 
 ## 🕹️ Mini Tic-Tac-Toe  
 ```
-🍵 ▫️ ▫️
-🍵 🍪 🍪
-▫️ 🍪 🍪
+▫️ ▫️ 🍪
+🍵 🍵 ▫️
+🍪 🍪 ▫️
 ```  
 ---  
 
 
 ## 🛠️ Tech & Tools
 
-<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
        alt="Java" 
@@ -112,8 +112,7 @@ I brew lines of code as passionately as I brew chai — each project a new flavo
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" 
        alt="MongoDB" 
        style="border-radius: 12px; box-shadow: 0 3px 8px rgba(78, 169, 75, 0.5);" />
-</p>
-
+</div>
 
 
 
