@@ -1,7 +1,7 @@
 <!-- Hero Section: Banner -->
 <p align="center">
   <!-- Live dynamic banner with custom tagline -->
-  <img src="assets/banner.gif" alt="Turning chai into code banner" />
+  <img src="assets\Coding magic into every line..gif" alt="Turning chai into code banner" />
 </p>
 
 
