@@ -24,7 +24,7 @@ Role: Code Alchemist & ML Enthusiast
 
 
 ## 🍵 Today’s Chai Thought  
-> “The worst part of success is trying to find someone who is happy for you.” — Bette Midler
+> “The best mind-altering drug is the truth.” — Lily Tomlin
 
 ---
 
@@ -37,9 +37,9 @@ Role: Code Alchemist & ML Enthusiast
 
 ## 🕹️ Mini Tic-Tac-Toe  
 ```
-🍪 ▫️ 🍪
+🍵 🍪 ▫️
 ▫️ 🍪 ▫️
-🍪 🍪 ▫️
+🍵 ▫️ ▫️
 ```  
 ---  
 
