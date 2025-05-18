@@ -24,7 +24,7 @@ Role: Code Alchemist & ML Enthusiast
 
 
 ## 🍵 Today’s Chai Thought  
-> “Better to live until you die.” — Dan Millman
+> “It is better to offer no excuse than a bad one. ” — George Washington
 
 ---
 
@@ -37,8 +37,8 @@ Role: Code Alchemist & ML Enthusiast
 
 ## 🕹️ Mini Tic-Tac-Toe  
 ```
-▫️ 🍪 ▫️
-▫️ 🍵 🍪
+🍪 ▫️ ▫️
+🍪 🍵 🍪
 ▫️ ▫️ ▫️
 ```  
 ---  
