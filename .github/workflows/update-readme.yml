@@ -1,27 +1,37 @@
-name: "🪄 Auto‑Update Profile README"
+name: "🪄 Auto-Update Profile README"
 
 on:
   schedule:
-    - cron: '0 * * * *'       # hourly; use '0 0 * * *' for daily :contentReference[oaicite:11]{index=11}
-  workflow_dispatch:         # manual trigger
+    - cron: '0 * * * *'     # runs hourly; change to '0 0 * * *' for daily
+  workflow_dispatch:       # manual trigger support
 
 jobs:
   update-profile:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # needed for auto‑commit :contentReference[oaicite:12]{index=12}
+      contents: write      # needed for auto-committing
     steps:
       - uses: actions/checkout@v3
+
+      - name: Refresh CA certificates
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes ca-certificates
+          sudo update-ca-certificates
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: pip install requests
+
       - name: Generate README
         run: python scripts/update_readme.py
+
       - name: Commit & Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5    # auto‑commit updated README :contentReference[oaicite:13]{index=13}
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update README with live stats & chai quote"
           branch: main
