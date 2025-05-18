@@ -97,7 +97,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 </p>
 
 <p align="center">
-  <img src="assets/image1.png" alt="Tic Tac Toe Game Screenshot" width="300" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(127, 90, 240, 0.3);" />
+  <img src="assets/image1.png" alt="Tic Tac Toe Game Screenshot" width="600" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(127, 90, 240, 0.3);" />
 </p>
 
 <p align="center" style="font-style: italic; color: #a78bfa;">
