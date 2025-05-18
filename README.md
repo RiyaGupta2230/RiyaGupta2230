@@ -1,7 +1,7 @@
 <!-- Hero Section: Banner -->
 <p align="center">
   <!-- Live dynamic banner with custom tagline -->
-  <img src="assets/banner.gif" alt="Turning chai into code banner" />
+  <img src="assets\Coding magic into every line..gif" alt="Turning chai into code banner" />
 </p>
 
 
@@ -24,7 +24,7 @@ Role: Code Alchemist & ML Enthusiast
 
 
 ## 🍵 Today’s Chai Thought  
-> “It is better to offer no excuse than a bad one. ” — George Washington
+> “The worst part of success is trying to find someone who is happy for you.” — Bette Midler
 
 ---
 
@@ -37,9 +37,9 @@ Role: Code Alchemist & ML Enthusiast
 
 ## 🕹️ Mini Tic-Tac-Toe  
 ```
-🍪 ▫️ ▫️
-🍪 🍵 🍪
-▫️ ▫️ ▫️
+🍪 ▫️ 🍪
+▫️ 🍪 ▫️
+🍪 🍪 ▫️
 ```  
 ---  
 
