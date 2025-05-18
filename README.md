@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.” — Gary Keller
+  “All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.” — James Allen
 </div>
 
 
