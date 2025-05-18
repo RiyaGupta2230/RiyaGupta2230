@@ -15,11 +15,11 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 
 <br/>
 
-- 💻 <strong>Full Stack Developer</strong>  
-- 🧠 Learning <strong>Machine Learning</strong>  
-- 💼 Intern at <strong>SSPL–DRDO</strong>  
-- ☕ Prefer <strong>Java</strong>, also familiar with other languages  
-- 🚀 Built projects in ML & Web Development  
+ 💻 <strong>Full Stack Developer</strong>  
+ 🧠 Learning <strong>Machine Learning</strong>  
+ 💼 Intern at <strong>SSPL–DRDO</strong>  
+ ☕ Prefer <strong>Java</strong>, also familiar with other languages  
+ 🚀 Built projects in ML & Web Development  
 
 </div>
 
@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “People inspire you, or they drain you. Pick them wisely.” — Les Brown
+  “Why compare yourself with others? No one in the entire world can do a better job of being you than you.” — Unknown
 </div>
 
 
@@ -97,7 +97,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 </p>
 
 <p align="center">
-  <img src="assets/image.png" alt="Tic Tac Toe Game Screenshot" width="300" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(127, 90, 240, 0.3);" />
+  <img src="assets/image1.png" alt="Tic Tac Toe Game Screenshot" width="300" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(127, 90, 240, 0.3);" />
 </p>
 
 <p align="center" style="font-style: italic; color: #a78bfa;">
