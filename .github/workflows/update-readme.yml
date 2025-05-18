@@ -2,14 +2,15 @@ name: "🪄 Auto-Update Profile README"
 
 on:
   schedule:
-    - cron: '0 * * * *'     # runs hourly; change to '0 0 * * *' for daily
-  workflow_dispatch:       # manual trigger support
+    - cron: '0 * * * *'      # runs hourly; change to '0 0 * * *' for daily
+  workflow_dispatch:        # manual trigger support
 
 jobs:
   update-profile:
     runs-on: ubuntu-latest
     permissions:
-      contents: write      # needed for auto-committing
+      contents: write       # needed for auto-committing
+
     steps:
       - uses: actions/checkout@v3
 
@@ -24,8 +25,16 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Cache pip
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install dependencies
-        run: pip install requests
+        run: pip install --upgrade pip && pip install -r requirements.txt
 
       - name: Generate README
         run: python scripts/update_readme.py

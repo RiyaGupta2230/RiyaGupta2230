@@ -1,5 +1,4 @@
-
-import requests, random
+import requests, random, os
 
 # 1. Fetch a random chai-worthy quote every hour
 resp = requests.get("https://zenquotes.io/api/random").json()
@@ -25,8 +24,10 @@ ttt_section = "```\n" + "\n".join(board) + "\n```"
 
 
 # 4. Load template & replace all placeholders
-with open("README.template.md", "r", encoding="utf-8") as f:
-    tpl = f.read()
+script_dir = os.path.dirname(__file__)                 # e.g. ".../scripts"
+template_path = os.path.join(script_dir, "../README.template.md")
+with open(template_path, "r", encoding="utf-8") as f:
+     tpl = f.read()
 
 readme = (
     tpl

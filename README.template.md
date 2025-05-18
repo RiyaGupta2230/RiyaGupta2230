@@ -1,13 +1,10 @@
-@@
  <!-- Hero Section: Banner -->
--<p align="center">
--  <img src="assets/banner.png" alt="Cyber Fantasy Banner" />
--</p>
-+<p align="center">
-+  <!-- Live dynamic banner with custom tagline -->
-+  <img src="https://dynamic-readme-banner.vercel.app/api?text=Turning%20Chai%20into%20Code&theme=dracula" 
-+       alt="Turning chai into code banner" />
-+</p>  <!-- powered by dynamic-readme-banner vercel app :contentReference[oaicite:5]{index=5} -->
+
+<p align="center">
+  <!-- Live dynamic banner with custom tagline -->
+  <img src="https://dynamic-readme-banner.vercel.app/api?text=Turning%20Chai%20into%20Code&theme=dracula" 
+       alt="Turning chai into code banner" />
+</p>  <!-- powered by dynamic-readme-banner vercel app :contentReference[oaicite:5]{index=5} -->
 
  <!-- About Me -->
  ## 👋 About Me
@@ -19,10 +16,10 @@ Role: Code Alchemist & ML Enthusiast
 
  ## 🧠 Live GitHub Stats  
  {{STATS_BADGE}}
-+
-+ <!-- Top languages and contributions graph -->
-+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaGupta2230&layout=compact&theme=radical)  
-+ ![Contribs](https://github-readme-stats.vercel.app/api?username=RiyaGupta2230&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues)  
+
+ <!-- Top languages and contributions graph -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaGupta2230&layout=compact&theme=radical)  
+ ![Contribs](https://github-readme-stats.vercel.app/api?username=RiyaGupta2230&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues)  
 
 ---
 
@@ -40,10 +37,10 @@ Role: Code Alchemist & ML Enthusiast
 
 @@ Markdown before “## 🛠️ Tech & Tools”
 ---  
-+ ## 🕹️ Mini Tic-Tac-Toe  
-+ {{TICTACTOE}}  
-+ ---  
-+
+ ## 🕹️ Mini Tic-Tac-Toe  
+ {{TICTACTOE}}  
+ ---  
+
 ## 🛠️ Tech & Tools   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  
