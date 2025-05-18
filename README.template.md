@@ -1,10 +1,9 @@
- <!-- Hero Section: Banner -->
-
+<!-- Hero Section: Banner -->
 <p align="center">
   <!-- Live dynamic banner with custom tagline -->
-  <img src="https://dynamic-readme-banner.vercel.app/api?text=Turning%20Chai%20into%20Code&theme=dracula" 
-       alt="Turning chai into code banner" />
-</p>  <!-- powered by dynamic-readme-banner vercel app :contentReference[oaicite:5]{index=5} -->
+  <img src="assets/banner.gif" alt="Turning chai into code banner" />
+</p>
+
 
  <!-- About Me -->
  ## 👋 About Me
@@ -35,11 +34,10 @@ Role: Code Alchemist & ML Enthusiast
 
 ---
 
-@@ Markdown before “## 🛠️ Tech & Tools”
+
+## 🕹️ Mini Tic-Tac-Toe  
+{{TICTACTOE}}  
 ---  
- ## 🕹️ Mini Tic-Tac-Toe  
- {{TICTACTOE}}  
- ---  
 
 ## 🛠️ Tech & Tools   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
