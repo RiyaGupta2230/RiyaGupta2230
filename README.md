@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “A lot of people have gone further than they thought they could because someone else thought they could.” — Zig Ziglar
+  “Only put off until tomorrow what you are willing to die having left undone.” — Pablo Picasso
 </div>
 
 
