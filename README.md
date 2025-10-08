@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Do the difficult things while they are easy and do the great things while they are small.” — Lao Tzu
+  “I try more and more to be myself, caring relatively little whether people approve or disapprove.” — Vincent van Gogh
 </div>
 
 
