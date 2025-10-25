@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Genius is the ability to act rightly without precedent - the power to do the right thing the first time.” — Elbert Hubbard
+  “If you do the work you get rewarded. There are no shortcuts in life.” — Michael Jordan
 </div>
 
 
