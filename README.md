@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “We learn to walk by falling down. If we never fell down, we would never walk.” — Robert Kiyosaki
+  “He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.” — Epictetus
 </div>
 
 
