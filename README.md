@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “You may be disappointed if you fail, but you are doomed if you don't try.” — Beverly Sills
+  “Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.” — Eckhart Tolle
 </div>
 
 
