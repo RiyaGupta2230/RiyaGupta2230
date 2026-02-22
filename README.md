@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Success is the progressive realization of a worthy goal or ideal.” — Earl Nightingale
+  “What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.” — Robert Greene
 </div>
 
 
