@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.” — Gary Keller
+  “The best way to find yourself is to lose yourself in the service of others.” — Mahatma Gandhi
 </div>
 
 
