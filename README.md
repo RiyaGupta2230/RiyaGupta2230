@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.” — Robert Greene
+  “I believe that one of life's greatest risks is never daring to risk.” — Oprah Winfrey
 </div>
 
 
