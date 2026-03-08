@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.” — Alfred Adler
+  “A man who cannot tolerate small misfortunes can never accomplish great things.” — Chinese Proverb
 </div>
 
 
