@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.” — Earl Nightingale
+  “Don't be afraid to stand for what you believe in, even if that means standing alone.” — Unknown
 </div>
 
 
