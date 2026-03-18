@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Nothing ever goes away until it has taught us what we need to know.” — Pema Chodron
+  “To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.” — Johann Wolfgang von Goethe
 </div>
 
 
