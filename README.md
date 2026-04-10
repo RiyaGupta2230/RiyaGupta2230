@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.” — Sonia Ricotti
+  “Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.” — George Bernard Shaw
 </div>
 
 
