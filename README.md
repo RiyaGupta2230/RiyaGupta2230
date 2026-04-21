@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” — Thomas Edison
+  “Life is a gift. Never forget to enjoy and bask in every moment you are in.” — Celestine Chua
 </div>
 
 
