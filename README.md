@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.” — Norman Vincent Peale
+  “You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.” — Eckhart Tolle
 </div>
 
 
