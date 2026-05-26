@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.” — Colin R. Davis
+  “The difference between ordinary and extraordinary is that little extra.” — Colin R. Davis
 </div>
 
 
