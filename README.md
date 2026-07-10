@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.” — Roy T. Bennett
+  “It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.” — Henry Ward Beecher
 </div>
 
 
