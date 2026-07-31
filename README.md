@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Watch your actions, they become habits; watch your habits, they become character; watch your character, for it becomes your destiny.” — Jeff Booth
+  “We have a choice everyday regarding the attitude we will embrace for that day.” — Charles Swindoll
 </div>
 
 
