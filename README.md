@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner
+  “The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!” — Tony Robbins
 </div>
 
 
