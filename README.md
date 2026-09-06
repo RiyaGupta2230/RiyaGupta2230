@@ -44,7 +44,7 @@ Code, chai, and curiosity — that's how I roll. I love building things that wor
 ## 🍵 Today’s Chai Thought  
 
 <div style="text-align: center; color:rgb(255, 255, 255); border-left: 4px solid #7f5af0; padding-left: 15px; margin: 10px 0; background: linear-gradient(90deg, #7f5af0 0%, #c084fc 50%, #f472b6 100%); border-radius: 8px;">
-  “If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.” — Lao Tzu
+  “The thing about smart people is that they seem like crazy people to dumb people.” — Stephen Hawking
 </div>
 
 
